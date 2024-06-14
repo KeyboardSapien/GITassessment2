@@ -1,1 +1,3 @@
 main branch modification
+first branch modification 
+merge conflict resolved
